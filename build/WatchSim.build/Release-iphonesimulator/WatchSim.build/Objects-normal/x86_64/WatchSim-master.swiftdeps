@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "899765879bed07abbe7768d1c036ea23"
+build_time: [1564385171, 567604000]
+inputs:
+  "/Users/bradleycline/WatchSim/WatchSim/Scenes/GameScene.swift": [9223372036, 854775807]
+  "/Users/bradleycline/WatchSim/WatchSim/ViewController/GameViewController.swift": [9223372036, 854775807]
+  "/Users/bradleycline/WatchSim/WatchSim/Template/Settings.swift": [9223372036, 854775807]
+  "/Users/bradleycline/WatchSim/WatchSim/Template/AppDelegate.swift": [9223372036, 854775807]
